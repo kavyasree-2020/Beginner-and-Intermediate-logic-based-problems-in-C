@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+  int n,rem,temp;
+  printf("Enter a number: ");
+  scanf("%d",&n);
+  temp=n;
+  rem=temp%10;
+  printf("The digit at ones place of %d : %d\n",n,rem);
+  return 0;
+}

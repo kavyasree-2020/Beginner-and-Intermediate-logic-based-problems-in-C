@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main() {
+  int n,sum=0,sum1=0,i;
+  printf("Enter n value : ");
+  scanf("%d",&n);
+  for(i=1;i<=n;i++)
+  {
+    sum=sum+i;
+  }
+  for(i=1;i<=n;i++)
+  {
+    sum1=sum1+(i*i);
+  }
+  printf("Sum of %d natural number : %d\n",n,sum);
+  printf("Sum of %d square of %d natural numbers : %d\n",n,sum1);
+  return 0;
+}

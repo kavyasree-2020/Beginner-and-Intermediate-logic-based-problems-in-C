@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main() {
+  int m,n,m1,m2;
+  printf("Enter two integer values : ");
+  scanf("%d %d",&m,&n);
+  m1=abs(100-m);
+  m2=abs(100-n);
+  if(m1<m2) {
+    printf("%d\n",m);
+  }
+  else
+    printf("%d\n",n); 
+}

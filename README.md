@@ -48,4 +48,4 @@
 
 24th sum: C program to generate multiplication table
 
-25th sum : C program to print pattern of a number (one simple pattern)
+25th sum : C program to print pascal's triangle

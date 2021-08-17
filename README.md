@@ -1,4 +1,4 @@
-# Beginner-and-Intermediate-logic-based-problems-in-C
+# Simple C programs
 
 1st sum: C program to find sum of squares of n natural numbers.
 

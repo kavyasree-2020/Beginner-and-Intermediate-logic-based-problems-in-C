@@ -48,11 +48,4 @@
 
 24th sum: C program to generate multiplication table
 
-25th sum : C program to print pattern of a number (one simple pattern for n=4)
-      1
-      
-    1   1
-    
-  1   2   1
-  
-1   3    3   1   
+25th sum : C program to print pattern of a number (one simple pattern)
